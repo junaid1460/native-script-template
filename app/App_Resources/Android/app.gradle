@@ -8,7 +8,7 @@
 android {  
   defaultConfig {  
     generatedDensities = []
-    applicationId = "crom.crook.remote" 
+    applicationId = "com.crook.remote" 
     
     //override supported platforms
     // ndk {
